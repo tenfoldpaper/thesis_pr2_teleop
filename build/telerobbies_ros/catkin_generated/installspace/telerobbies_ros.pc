@@ -1,0 +1,8 @@
+prefix=/home/thesis/bien_thesis/pr2_ws/install
+
+Name: telerobbies_ros
+Description: Description of telerobbies_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

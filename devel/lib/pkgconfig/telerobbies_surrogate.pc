@@ -1,0 +1,8 @@
+prefix=/home/thesis/bien_thesis/pr2_ws/devel
+
+Name: telerobbies_surrogate
+Description: Description of telerobbies_surrogate
+Version: 0.0.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

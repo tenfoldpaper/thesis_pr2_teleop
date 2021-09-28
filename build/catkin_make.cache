@@ -1,0 +1,2 @@
+telerobbies_ros:telerobbies_surrogate
+-DCATKIN_DEVEL_PREFIX=/home/thesis/bien_thesis/pr2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/thesis/bien_thesis/pr2_ws/install -G Unix Makefiles
